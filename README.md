@@ -10,4 +10,4 @@ An Android application that displays different types of information related to t
 
 # Demonstration
 
-!['Demonstration'](fourthimage.png)
+!['Demonstration'](demonstration.png)
